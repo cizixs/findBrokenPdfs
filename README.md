@@ -34,7 +34,8 @@ Run the script and pass the directory you want to scan.
 
 # Todos
 
-- delete broken pdfs by default without asking
-- support multi directories scan
-- speed up the whole process with concurrency programming
-- non-recursive scanning(only scan the directory, not its inner directories)
+- [ ] delete broken pdfs by default without asking
+- [ ] support multi directories scan
+- [ ] speed up the whole process with concurrency programming
+- [ ] non-recursive scanning(only scan the directory, not its inner directories)
+- [ ] write setup.py and upload to pypi
